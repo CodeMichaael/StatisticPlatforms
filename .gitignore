@@ -1,0 +1,11 @@
+*.classpath
+/target/
+*.log
+*.project
+/src/main/resources/application.properties
+*HELP.md
+*mvnw
+*mvnw.cmd
+*pom.xml
+*.settings/
+*.mvn/
